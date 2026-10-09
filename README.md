@@ -1,6 +1,7 @@
 # Netflix Data Cleaning
 
 **Project URL:** https://github.com/B0kkl/netflix_data_cleaning
+**Project Data Source:** https://roadmap.sh/projects/cleaning-netflix-dataset
 
 Cleaning the [Netflix Movies and TV Shows dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows) from Kaggle using **Python, Pandas and Jupyter Notebook**.
 
